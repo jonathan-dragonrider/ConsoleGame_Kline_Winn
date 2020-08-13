@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGameSubmission\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb

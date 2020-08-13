@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\bin\Debug\Experimentation.exe.config
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\bin\Debug\Experimentation.exe
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\bin\Debug\Experimentation.pdb
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\obj\Debug\Experimentation.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\obj\Debug\Experimentation.exe
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\obj\Debug\Experimentation.pdb
+C:\Users\Jonathan\Desktop\Eleven Fifty\ElevenFiftyProjects\ConsoleGame\ConsoleGame\Experimentation\obj\Debug\Experimentation.csprojAssemblyReference.cache
